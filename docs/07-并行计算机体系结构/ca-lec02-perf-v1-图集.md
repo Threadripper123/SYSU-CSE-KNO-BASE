@@ -1,0 +1,52 @@
+# ca-lec02-perf-v1-图集
+
+> 主题库：并行计算机体系结构　｜　源文件：ca-lec02-perf-v1-图集.pdf　｜　10,295 字符　｜　25 个片段　｜　更新于 2026-11-11
+SUN YAT-SEN UNIVERSITY
+
+112 10 2 9 8_  4. RADo 7 CONROLED 6 5 .
+
+MICi×CPIi CPI: i=1 ICi ×CPIi Instruction count Instructioncount
+
+Execution timey Performancey Performancex  Executiontimex 1 Performancey Performancex
+
+AMDAl  COMPUTER PIONEER AEI DAIEL
+
+0 181  并 6 部分比例 0% 8 1 141 0% 9 0% 6 2 2  9 5% 0  8 4 2  处理器数目p
+
+Benchmark Type Source   Description gzip Integer c Compression using the Lempel-Zivalgorithm vpr Integer c FPGAcircuitplacement and routing gcc Integer c Consists of the GNU C compiler generating optimized machine code. mcf Integer c Combinatorialoptimization of public transit scheduling. crafty Integer c Chess playing program . parser Integer c Syntactic English language parser eon Integer C++ Graphicsvisualization using probabilistic raytracing perlmbk Integer c Perl (an inteipreted string processing language) with four input scripts gap Integer c A group theory application package vortex Integer C Anobject-orienteddatabase system bzip2 Integer c A block sorting compression algorithm twolf Integer c Timberwolf:a simulated annealing algorithm forVLSI place androute wupwise FP F77 Lattice gauge theory modelofquantum chromodynamics. swim FP F77 Solves shallow water equations using finite difference equations. mgrid FP F77 Multigrid solver over 3-dimensional field. apply FP F77 Parabolic and ellipticpartialdifferential equation solver mesa FP C Three dimensional graphics library galgel FP F9o Computational fluiddynamics. art FP c Image recognition ofa theimal image using neural networks equake FP c Simulation of seismic wave propagation. facerec FP C Face recognition using wavelets and graph matching. ammp FP c molecular dynamics simulation of a protein in water lucas FP F9o Perforns primalitytesting for Mersenne primes fma3d FP F90 Finite element modeling of crash simulation sixtrack FP F77 High energy physics accelerator design simulation. apsi FP F77 A meteorological simulation ofpollution distribution.
+
+SPECRatioA Execution timeA Executiontimeb PerformanceA —.5— SPECRatioB Execution timereference Execution timeA PerformanceB
+
+Ultra 5 time Opteron Itanium 2 Opteron/ltanium l Itanium/Opteron Benchmarks (sec) time(sec) SPECRatio time(sec) SPECRatio times(sec) SPECRatios wupwise 1600 51.5 31.06 56.1 28.53 0.92 0.92 swim 3100 125.0 24.73 70.7 43.85 1.77 1.77 mgrid 1800 98.0 18.37 65.8 27.36 1.49 1.49 applu 2100 94.0 22.34 50.9 41.25 1.85 1.85 mesa 1400 64.6 21.69 108.0 12.99 0.60 0.60 galgel| 2900 86.4 33.57 40.0 72.47 2.16 2.16 art 2600 92.4 28.13 21.0 123.67 4.40 4.40 equake 1300 72.6 17.92 36.3 35.78 2.00 2.00 facerec |1900 73.6 25.80 86.9 21.86 0.85 0.85 ammp 2200 136.0 16.14| 132.0 16.63 | 1.03 1.03 lucas 2000 88.8 22.52 107.0 18.76 0.83 0.83 fma3d 2100 120.0 17.48 131.0 16.09 0.92 0.92 sixtrack | 1100 123.0 8.95 68.8 15.99 1.79 1.79 apsi 2600 150.0 17.36 231.0 11.27 0.65 0.65 Geometricmean 20.86 27.12 | 1.30 1.30
+
+Executlon Reference Instructlon clock cycle tlme Time Time Descriptlon Name countx1o cPI (secondsx1o-0) (seconds) (seconds) sPEcratlo Interpreted string processing perl 2252 0.60 0.376 508 9770 19.2 Block-Sorting bzip2 2390 0.70 0.376 629 9650 15.4 GNUCcompiler gcc 794 1.20 0.376 358 8050 22.5 Combinatorial optimization mcf 221 2.66 0.376 221 9120 41.2 Go game(Al) go 1274 1.10 0.376 527 10490 19.9 Search gene sequence hmmer 2616 0.60 0.376 590 9330 15.8 Chess game(Al) sjeng 1948 0.80 0.376 586 12100 20.7 Quantum computer libquantum 659 0.44 0.376 109 20720 190.0 simulation Videocompression h264avc 3793 0.50 0.376 713 22130 31.0 Discrete event omnetpp 367 2.10 0.376 290 6250 21.5 simulation library Games/path finding astar 1250 1.00 0.376 470 7020 14.9 XML parsing xalancbmk 1045 0.70 0.376 275 6900 25.1 Geometricmean - _ - - - - 25.7
+
+F(x) : (
+
+A00 A01 A02 A03 A00 A02 A01 A03 A10 A11 A12 A13 A20 A22 A21 A23 A20 A21 A22 A23 A10 A12 A11 A13 A30 A31 A32 A33 A30 A32 A31 A33 (a)数据矩阵图 (b)矩阵分块在进程上的分布图分布图
+
+Rmax Rpeak Power Rank   System  Cores (PFlop/s) (PFlop/s) (kW) 1 Frontier-HPECrayEX235a,AMDOptimized 3rd 8,699,904 1,206.00 1,714.81   22,786  GenerationEpYC 64C 2Ghz,AmdInstinct ml250X, DOE/SC/Oak Ridge National Laboratory united states 2 Aurora-HPECrayEX-Intel Exascale Compute Blade, 9,264,128 1,012.00 1,980.01   38,698  XeonCPUMax947052C2.4GHz,IntelDataCenterGPU MaaSlingshot11Intel DOE/SC/ArgonneNationalLaboratory United States 3 Eagle- MicrosoftNDv5,XeonPlatinum 8480C48C2GHz, 2,073,600 561.20 846.84  NVIDIA H100, NVIDIA Infiniband NDR, MicrosoftAzure Microsoft Azure united states 4 SupercomputerFugaku-SupercomputerFugaku, 7,630,848 442.01 537.21   29,899 A64FX48C 2.2GHzTofuinterconnectD,Fujitsu RIKENCenterforComputationalScience JApAN 5 LUMI - HPE CrayEX235a,AMD Optimized 3rd Generation 2,752,704 379.70 531.51 1 7,107 EPYC 64C 2GHz, AMD Instinct MI250X, Slingshot-11, HPE Finland
+
+T0P500 Rmax HPCG Rank Rank System Cores (PFlop/s) (TFlop/s) 1 4 SupercomputerFugaku- SupercomputerFugaku, 7,630,848 442.01 16004.50  A64FX48C2.2GHz,TofuinterconnectD,Fujitsu RlKENCenterforComputationalScience JAPAN 2 1 Frontier-HPECrayEX235a,AMDOptimized3rd 8,699,904   1,206.00 14054.00 GenerationEPYC64C2GHzAMDlnstinctMl250X Slingshot-11,HPE DOE/SC/Oak Ridge National Laboratory UnitedStates 3 2 Aurora-HPECray EX-IntelExascale ComputeBlade, 9,264,128 3   1 1,012.00 5612.60 XeonCPU Max947052C2.4GHz,Intel Data CenterGPU MaaSlingsho-11Intell DOE/SC/Argonne National Laboratory United States 4 5 LUMI-HPECrayEX235a,AMDOptimized3rd 2,752,704    379.70 4586.95 Generation EPYC 64C 2GHz,AMDInstinct MI250X, Slingshot-11, HPE EuroHPC/CSC Finland 5 6 Alps - HPE CrayEX254n,NVIDIAGrace 72C 3.1GHz, 1,305,600 270.00 3671.32 NVIDIAGH200Superchip,Slingshot-11,HPE SwissNational SupercomputingCentre(CSCS) Switzerland
+
+表2-4   Graph500中不同问题大小、规模、节点数以及内存要求对应表规模（2的次 ） 节点数（×10⁸） 内存要求/TB Toy 26 1 0.02 Mini 29 5 0.14 Small 32 43 1.1 Medium 36 687 17.6 Large 39 5498 141 Huge 42 43980 1126
+
+开始随机生成根顶点否是否是新的根顶点? 星否 BFS或SSSP遍历验证遍历结果是否循环了64 次？ 输出结果结束
+
+GRAPHL HOME COMPLETERESULTS GREENGRAPH5OO SUBMISSIONS BENCHMARKSPECIFICATION CONTACTUS 500 Show 10 entries  Search: RANK MTEPS/W SITE  GRAPH5OO MACHINE   RANK SCALE  GTEPS  NODES CORES→ POWER  1 22094.87 Haifa RAZIEL 17 28 1679.210000 1 16 76 2 12512.81 HUST JiFeng 50 20 461.222000 1 512 36.86 &amp;&amp; zhejianglab 3 8635.11 National Tianhe Exa-node 29 27 1165.740000 1 64 135  Supercomputer Prototype@Newbenchmarking@GreenBFs Centerin Tianjin 4 6396.140 |BDTS-SCTS- YITU0 33 27 1010.590000 1 28 158 cgcL 5 6099.61 National Tianhe Exa-node Prototype@GraphV 36 26 884.443000 1 64 145 supercomputer Center in Tianjin 6 6028.85 UPenn ENIAD 39 26 783.750300 1 16 130 7 4724.30 National1 Tianhe Exa-node Prototype -1 25 779.510000 1 64 165 Supercomputer Centerin Tianjin
+
+GRAPHL HOME COMPLETERESULTS GREEN GRAPH5OO SUBMISSIONS BENCHMARK SPECIFICATION CONTACTUS 500 Show 1o entries  Search: MACHINE GRAPH500 RANK MTEPS/W SITE  RANK  SCALE GTEPS   NODES CORES POWER 1 16238.05 Haifa RAZIEL -1 30 1412.710000 1 16 87 2 6320.24 1National TianheExa-node 32 30 1055.480000 ) 1 64 167 supercomputer Prototype@newbenchmarking@supercsr centerin tianjin 3 4385.24 National Tianhe Exa-node Prototype 38 30 811.270000 1 64 185 supercomputer Center in Tianjin 4 3938.92 BDTS-SCTS- YITU -1 30 909.891000 1 28 231 CGcL 5 2057.08 Universityof ENIAD 51 30 436.100000 1 8 212 Pennsylvania 6 1135.38 NTT MuSaShino GMC6KA -1 30 186.100000 1 16 163.91 R-and-D Center 7 701.36 IPADS@SJTU Polymer2-Arm -1 30 238.463000 1 96 340 &amp;&amp; huawei
+
+10500 ISC 22 List Io500 10 Node Full Historical Cuistomize Download This is the1SC221O500list INFORMATION 10500 #↑ BW MD BOF CLIENT TOTAL INSTITUTION SYSTEM STORAGEVENDOR FILESYSTEM TYPE NODES CLIENT SCORE↑ PROC. (GIB/S) (KIOP/S)  ISC21 Pengcheng Laboratory Pengcheng Cloudbrain- Ilon Atlas 900 Pengcheng MadFS 512 36,864 36,850.40 3,421.62 396,872.82  ISC22 SupercompurtingiCenter  Shanhe PDsL flashfs 10 2,560 3,534.42 207.79 60,119.50  SC21 Huawei HPDA Lab Athena Huawei OceanFS 10 1,720 2,395.03 314.56 18,235.71  SC21 Olympus Lab OceanStorPacific Huawei OceanFs 10 1,720 2,298.69 317.07 16,664.88  SC21 Huawei Cloud PDSL Flashfs 15 1,560 2,016.70 109.82 37,034.00  isC21 Intel Endeavour Intel DAos 10 1,440 1,859.56 398.77 8,671.65  ISC20 Intel Wolf Intel DAOS 52 1,664 1,792.98 371.67 8,649.57  ISC22 LRZ SuperMUC-NG Phase2 Lenovo DAoS 20 1,280 1,371.30 321.75 5,844.40  ISC22 Umiversity of Cammrbridge Cumulus Dell/Intel DAos 200 2,000 1,107.17 283.19 4,328.68 0 ISC21 Lenovo Lenovo-Lenox Lenovo DAOS 36 3,456 988.99 176.37 5,545.61
+
+External power ACpower forasinglenode ACpowermeter Pawerdatal under test Network Computerfor recording and processing powerdata
+
+ToP50o Rmax Power EnergyEfficiency Rank Rank System Cores (PFlop/s) (kW) (GFlops/watts) 1 189 JEDI-BullSequanaXH3000, Grace 19,584 4.50 67 72.733 HopperSuperchip72C3GHz,NVIDIA GH200Superchip,Quad-RailNVIDIA InfiniBandNDR200,ParTec/EVIDEN EuroHPC/FZ Germany 2 128 Isambard-AIphase 1-HPECray 34,272 7.42 117 68.835 EX254n,NVIDIAGrace72C3.1GHz, NVIDIA GH200 Superchip, Slingshot-11, HPE UniversityofBristol United Kingdom 3 55 Helios GPU-HPECrayEX254n, NVIDIA 89,760 19.14 317 66.948 Grace 72C 3.1GHz,NVIDIAGH200 Superchip, Slingshot-11,HPE Cyfronet Poland 4 328 Henri-ThinkSystem SR670 V2,Intel 8,288 2.88 44 65.396 XeonPlatinum 836232C 2.8GHz,NVIDIA H10080GBPCIe,InfinibandHDR,Lenovo Flatiron lnstitute United States 5 71 preAlps-HPECrayEX254n,NVIDIA 81,600 15.47 240 64.381 Grace72C 3.1GHz,NVIDIAGH200 Superchip,Slingshot-11,HPE Swiss National Supercomputing Centre (cScS)
+
+cjó WinningTeam  lable Fully-Irglicit Solver for Nonhydrostatic Atmospheri Chinese demyoeience fang liulchi Academ e Tsinoy 5 n uaUnive Ful Unive ationa  Norm ompute hua angl hua hinese
+
+Teea Weile Jia @UCB Han Wang @IAPCM Mohan Chen @ PKU Denghui Lu @ PKU Lin Lin @ UCB Weinan E @ Princeton Roberto Car @ Princeton Linfeng Zhang @ Princeton
+
+问题划分通信组合映射
+
+硬件/软件影响什么如何影响算法程序的执算法决定源程序执行指令的数目，好的算法可以大行指令数幅度減少运算的次数编程语言程序的执编程语言可能对执行指令数产生巨大的影响，比如行指令数解释执行、即时编译或者原生编译的三类语言完成同样的功能所需要的指令数可能有数量级的差异编译器和程序的执编译器和库决定了源程序到计算机指令的翻译过程， 库行指令数、 编译程序的效率既影响到程序的执行指令数又影响 CPI 到CPI，如InteI的ICC编译器编出来的程序，效率可比GCC高30%，其能充分利用向量化指令和针对处理器结构的优化指令系统程序的执指令系统结构影响到CPU性能的3个方面，因为它结构行指令数、 影响到完成某个功能所需的指令数、每条指令的周 CPI和时期数，以及处理器的时钟频率钟频率微体系结 CPI和时微体系结构的改进可以降低CPI，也可以细分流水构钟频率线来提高频率物理设计时钟频率物理设计和电路的进步可以降低时钟周期，从而提 [高b时钟频率工艺时钟频率工艺的进步使得晶体管变快从而提高时钟频率 12

@@ -1,0 +1,69 @@
+# 人工智能
+
+人工智能（大二资料库，已去重）
+
+共 61 篇，合计 650,207 字符。
+
+| # | 文档 | 源文件 | 字符数 |
+| --- | --- | --- | ---: |
+| 1 | [Lecture1-绪论-图集-视觉描述](Lecture1-%E7%BB%AA%E8%AE%BA-%E5%9B%BE%E9%9B%86-%E8%A7%86%E8%A7%89%E6%8F%8F%E8%BF%B0.md) | Lecture1-绪论-图集-视觉描述.md | 12,326 |
+| 2 | [Lecture1-绪论-图集](Lecture1-%E7%BB%AA%E8%AE%BA-%E5%9B%BE%E9%9B%86.md) | Lecture1-绪论-图集.pdf | 5,344 |
+| 3 | [Lecture1-绪论](Lecture1-%E7%BB%AA%E8%AE%BA.md) | Lecture1-绪论.pdf | 25,222 |
+| 4 | [Lecture2-1-命题逻辑-图集-视觉描述](Lecture2-1-%E5%91%BD%E9%A2%98%E9%80%BB%E8%BE%91-%E5%9B%BE%E9%9B%86-%E8%A7%86%E8%A7%89%E6%8F%8F%E8%BF%B0.md) | Lecture2-1-命题逻辑-图集-视觉描述.md | 970 |
+| 5 | [Lecture2-1-命题逻辑-图集](Lecture2-1-%E5%91%BD%E9%A2%98%E9%80%BB%E8%BE%91-%E5%9B%BE%E9%9B%86.md) | Lecture2-1-命题逻辑-图集.pdf | 93 |
+| 6 | [Lecture2-1-命题逻辑](Lecture2-1-%E5%91%BD%E9%A2%98%E9%80%BB%E8%BE%91.md) | Lecture2-1-命题逻辑.pdf | 5,223 |
+| 7 | [Lecture2-2-谓词逻辑、推理-图集-矢量-视觉描述](Lecture2-2-%E8%B0%93%E8%AF%8D%E9%80%BB%E8%BE%91%E3%80%81%E6%8E%A8%E7%90%86-%E5%9B%BE%E9%9B%86-%E7%9F%A2%E9%87%8F-%E8%A7%86%E8%A7%89%E6%8F%8F%E8%BF%B0.md) | Lecture2-2-谓词逻辑、推理-图集-矢量-视觉描述.md | 3,150 |
+| 8 | [Lecture2-2-谓词逻辑、推理-图集-矢量](Lecture2-2-%E8%B0%93%E8%AF%8D%E9%80%BB%E8%BE%91%E3%80%81%E6%8E%A8%E7%90%86-%E5%9B%BE%E9%9B%86-%E7%9F%A2%E9%87%8F.md) | Lecture2-2-谓词逻辑、推理-图集-矢量.pdf | 678 |
+| 9 | [Lecture2-2-谓词逻辑、推理-图集-视觉描述](Lecture2-2-%E8%B0%93%E8%AF%8D%E9%80%BB%E8%BE%91%E3%80%81%E6%8E%A8%E7%90%86-%E5%9B%BE%E9%9B%86-%E8%A7%86%E8%A7%89%E6%8F%8F%E8%BF%B0.md) | Lecture2-2-谓词逻辑、推理-图集-视觉描述.md | 13,655 |
+| 10 | [Lecture2-2-谓词逻辑、推理-图集](Lecture2-2-%E8%B0%93%E8%AF%8D%E9%80%BB%E8%BE%91%E3%80%81%E6%8E%A8%E7%90%86-%E5%9B%BE%E9%9B%86.md) | Lecture2-2-谓词逻辑、推理-图集.pdf | 7,493 |
+| 11 | [Lecture2-2-谓词逻辑、推理](Lecture2-2-%E8%B0%93%E8%AF%8D%E9%80%BB%E8%BE%91%E3%80%81%E6%8E%A8%E7%90%86.md) | Lecture2-2-谓词逻辑、推理.pdf | 13,270 |
+| 12 | [Lecture3-搜索-图集-视觉描述](Lecture3-%E6%90%9C%E7%B4%A2-%E5%9B%BE%E9%9B%86-%E8%A7%86%E8%A7%89%E6%8F%8F%E8%BF%B0.md) | Lecture3-搜索-图集-视觉描述.md | 13,171 |
+| 13 | [Lecture3-搜索-图集](Lecture3-%E6%90%9C%E7%B4%A2-%E5%9B%BE%E9%9B%86.md) | Lecture3-搜索-图集.pdf | 6,625 |
+| 14 | [Lecture3-搜索](Lecture3-%E6%90%9C%E7%B4%A2.md) | Lecture3-搜索.pdf | 21,735 |
+| 15 | [Lecture4-高级搜索-图集-视觉描述](Lecture4-%E9%AB%98%E7%BA%A7%E6%90%9C%E7%B4%A2-%E5%9B%BE%E9%9B%86-%E8%A7%86%E8%A7%89%E6%8F%8F%E8%BF%B0.md) | Lecture4-高级搜索-图集-视觉描述.md | 5,240 |
+| 16 | [Lecture4-高级搜索-图集](Lecture4-%E9%AB%98%E7%BA%A7%E6%90%9C%E7%B4%A2-%E5%9B%BE%E9%9B%86.md) | Lecture4-高级搜索-图集.pdf | 3,389 |
+| 17 | [Lecture4-高级搜索](Lecture4-%E9%AB%98%E7%BA%A7%E6%90%9C%E7%B4%A2.md) | Lecture4-高级搜索.pdf | 12,724 |
+| 18 | [Lecture5-不确定性知识表示和推理-图集-矢量-视觉描述](Lecture5-%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E7%9F%A5%E8%AF%86%E8%A1%A8%E7%A4%BA%E5%92%8C%E6%8E%A8%E7%90%86-%E5%9B%BE%E9%9B%86-%E7%9F%A2%E9%87%8F-%E8%A7%86%E8%A7%89%E6%8F%8F%E8%BF%B0.md) | Lecture5-不确定性知识表示和推理-图集-矢量-视觉描述.md | 3,161 |
+| 19 | [Lecture5-不确定性知识表示和推理-图集-矢量](Lecture5-%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E7%9F%A5%E8%AF%86%E8%A1%A8%E7%A4%BA%E5%92%8C%E6%8E%A8%E7%90%86-%E5%9B%BE%E9%9B%86-%E7%9F%A2%E9%87%8F.md) | Lecture5-不确定性知识表示和推理-图集-矢量.pdf | 1,071 |
+| 20 | [Lecture5-不确定性知识表示和推理-图集-视觉描述](Lecture5-%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E7%9F%A5%E8%AF%86%E8%A1%A8%E7%A4%BA%E5%92%8C%E6%8E%A8%E7%90%86-%E5%9B%BE%E9%9B%86-%E8%A7%86%E8%A7%89%E6%8F%8F%E8%BF%B0.md) | Lecture5-不确定性知识表示和推理-图集-视觉描述.md | 18,700 |
+| 21 | [Lecture5-不确定性知识表示和推理-图集](Lecture5-%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E7%9F%A5%E8%AF%86%E8%A1%A8%E7%A4%BA%E5%92%8C%E6%8E%A8%E7%90%86-%E5%9B%BE%E9%9B%86.md) | Lecture5-不确定性知识表示和推理-图集.pdf | 6,013 |
+| 22 | [Lecture5-不确定性知识表示和推理](Lecture5-%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E7%9F%A5%E8%AF%86%E8%A1%A8%E7%A4%BA%E5%92%8C%E6%8E%A8%E7%90%86.md) | Lecture5-不确定性知识表示和推理.pdf | 15,942 |
+| 23 | [Lecture6-Agent-图集-矢量-视觉描述](Lecture6-Agent-%E5%9B%BE%E9%9B%86-%E7%9F%A2%E9%87%8F-%E8%A7%86%E8%A7%89%E6%8F%8F%E8%BF%B0.md) | Lecture6-Agent-图集-矢量-视觉描述.md | 4,450 |
+| 24 | [Lecture6-Agent-图集-矢量](Lecture6-Agent-%E5%9B%BE%E9%9B%86-%E7%9F%A2%E9%87%8F.md) | Lecture6-Agent-图集-矢量.pdf | 763 |
+| 25 | [Lecture6-Agent-图集-视觉描述](Lecture6-Agent-%E5%9B%BE%E9%9B%86-%E8%A7%86%E8%A7%89%E6%8F%8F%E8%BF%B0.md) | Lecture6-Agent-图集-视觉描述.md | 18,304 |
+| 26 | [Lecture6-Agent-图集](Lecture6-Agent-%E5%9B%BE%E9%9B%86.md) | Lecture6-Agent-图集.pdf | 21,400 |
+| 27 | [Lecture6-Agent](Lecture6-Agent.md) | Lecture6-Agent.pdf | 20,769 |
+| 28 | [Lecture7-机器学习1-概述-图集-矢量-视觉描述](Lecture7-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A01-%E6%A6%82%E8%BF%B0-%E5%9B%BE%E9%9B%86-%E7%9F%A2%E9%87%8F-%E8%A7%86%E8%A7%89%E6%8F%8F%E8%BF%B0.md) | Lecture7-机器学习1-概述-图集-矢量-视觉描述.md | 3,567 |
+| 29 | [Lecture7-机器学习1-概述-图集-矢量](Lecture7-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A01-%E6%A6%82%E8%BF%B0-%E5%9B%BE%E9%9B%86-%E7%9F%A2%E9%87%8F.md) | Lecture7-机器学习1-概述-图集-矢量.pdf | 305 |
+| 30 | [Lecture7-机器学习1-概述-图集-视觉描述](Lecture7-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A01-%E6%A6%82%E8%BF%B0-%E5%9B%BE%E9%9B%86-%E8%A7%86%E8%A7%89%E6%8F%8F%E8%BF%B0.md) | Lecture7-机器学习1-概述-图集-视觉描述.md | 13,168 |
+| 31 | [Lecture7-机器学习1-概述-图集](Lecture7-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A01-%E6%A6%82%E8%BF%B0-%E5%9B%BE%E9%9B%86.md) | Lecture7-机器学习1-概述-图集.pdf | 4,194 |
+| 32 | [Lecture7-机器学习1-概述](Lecture7-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A01-%E6%A6%82%E8%BF%B0.md) | Lecture7-机器学习1-概述.pdf | 10,200 |
+| 33 | [Lecture7-机器学习2-监督学习-图集-矢量-视觉描述](Lecture7-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A02-%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0-%E5%9B%BE%E9%9B%86-%E7%9F%A2%E9%87%8F-%E8%A7%86%E8%A7%89%E6%8F%8F%E8%BF%B0.md) | Lecture7-机器学习2-监督学习-图集-矢量-视觉描述.md | 14,973 |
+| 34 | [Lecture7-机器学习2-监督学习-图集-矢量](Lecture7-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A02-%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0-%E5%9B%BE%E9%9B%86-%E7%9F%A2%E9%87%8F.md) | Lecture7-机器学习2-监督学习-图集-矢量.pdf | 2,874 |
+| 35 | [Lecture7-机器学习2-监督学习-图集-视觉描述](Lecture7-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A02-%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0-%E5%9B%BE%E9%9B%86-%E8%A7%86%E8%A7%89%E6%8F%8F%E8%BF%B0.md) | Lecture7-机器学习2-监督学习-图集-视觉描述.md | 12,885 |
+| 36 | [Lecture7-机器学习2-监督学习-图集](Lecture7-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A02-%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0-%E5%9B%BE%E9%9B%86.md) | Lecture7-机器学习2-监督学习-图集.pdf | 5,597 |
+| 37 | [Lecture7-机器学习2-监督学习](Lecture7-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A02-%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0.md) | Lecture7-机器学习2-监督学习.pdf | 27,886 |
+| 38 | [Lecture7-机器学习3-深度学习-图集-矢量-视觉描述](Lecture7-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A03-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-%E5%9B%BE%E9%9B%86-%E7%9F%A2%E9%87%8F-%E8%A7%86%E8%A7%89%E6%8F%8F%E8%BF%B0.md) | Lecture7-机器学习3-深度学习-图集-矢量-视觉描述.md | 18,309 |
+| 39 | [Lecture7-机器学习3-深度学习-图集-矢量](Lecture7-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A03-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-%E5%9B%BE%E9%9B%86-%E7%9F%A2%E9%87%8F.md) | Lecture7-机器学习3-深度学习-图集-矢量.pdf | 2,568 |
+| 40 | [Lecture7-机器学习3-深度学习-图集-视觉描述](Lecture7-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A03-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-%E5%9B%BE%E9%9B%86-%E8%A7%86%E8%A7%89%E6%8F%8F%E8%BF%B0.md) | Lecture7-机器学习3-深度学习-图集-视觉描述.md | 16,508 |
+| 41 | [Lecture7-机器学习3-深度学习-图集](Lecture7-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A03-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-%E5%9B%BE%E9%9B%86.md) | Lecture7-机器学习3-深度学习-图集.pdf | 3,381 |
+| 42 | [Lecture7-机器学习3-深度学习](Lecture7-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A03-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.md) | Lecture7-机器学习3-深度学习.pdf | 21,947 |
+| 43 | [Lecture7-机器学习4-强化学习-图集-矢量-视觉描述](Lecture7-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A04-%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0-%E5%9B%BE%E9%9B%86-%E7%9F%A2%E9%87%8F-%E8%A7%86%E8%A7%89%E6%8F%8F%E8%BF%B0.md) | Lecture7-机器学习4-强化学习-图集-矢量-视觉描述.md | 20,499 |
+| 44 | [Lecture7-机器学习4-强化学习-图集-矢量](Lecture7-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A04-%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0-%E5%9B%BE%E9%9B%86-%E7%9F%A2%E9%87%8F.md) | Lecture7-机器学习4-强化学习-图集-矢量.pdf | 2,313 |
+| 45 | [Lecture7-机器学习4-强化学习-图集-视觉描述](Lecture7-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A04-%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0-%E5%9B%BE%E9%9B%86-%E8%A7%86%E8%A7%89%E6%8F%8F%E8%BF%B0.md) | Lecture7-机器学习4-强化学习-图集-视觉描述.md | 17,019 |
+| 46 | [Lecture7-机器学习4-强化学习-图集](Lecture7-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A04-%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0-%E5%9B%BE%E9%9B%86.md) | Lecture7-机器学习4-强化学习-图集.pdf | 7,150 |
+| 47 | [Lecture7-机器学习4-强化学习](Lecture7-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A04-%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md) | Lecture7-机器学习4-强化学习.pdf | 59,571 |
+| 48 | [Lecture7-机器学习5-非监督聚类-图集-矢量-视觉描述](Lecture7-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A05-%E9%9D%9E%E7%9B%91%E7%9D%A3%E8%81%9A%E7%B1%BB-%E5%9B%BE%E9%9B%86-%E7%9F%A2%E9%87%8F-%E8%A7%86%E8%A7%89%E6%8F%8F%E8%BF%B0.md) | Lecture7-机器学习5-非监督聚类-图集-矢量-视觉描述.md | 8,095 |
+| 49 | [Lecture7-机器学习5-非监督聚类-图集-矢量](Lecture7-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A05-%E9%9D%9E%E7%9B%91%E7%9D%A3%E8%81%9A%E7%B1%BB-%E5%9B%BE%E9%9B%86-%E7%9F%A2%E9%87%8F.md) | Lecture7-机器学习5-非监督聚类-图集-矢量.pdf | 2,004 |
+| 50 | [Lecture7-机器学习5-非监督聚类-图集-视觉描述](Lecture7-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A05-%E9%9D%9E%E7%9B%91%E7%9D%A3%E8%81%9A%E7%B1%BB-%E5%9B%BE%E9%9B%86-%E8%A7%86%E8%A7%89%E6%8F%8F%E8%BF%B0.md) | Lecture7-机器学习5-非监督聚类-图集-视觉描述.md | 13,064 |
+| 51 | [Lecture7-机器学习5-非监督聚类-图集](Lecture7-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A05-%E9%9D%9E%E7%9B%91%E7%9D%A3%E8%81%9A%E7%B1%BB-%E5%9B%BE%E9%9B%86.md) | Lecture7-机器学习5-非监督聚类-图集.pdf | 6,042 |
+| 52 | [Lecture7-机器学习5-非监督聚类](Lecture7-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A05-%E9%9D%9E%E7%9B%91%E7%9D%A3%E8%81%9A%E7%B1%BB.md) | Lecture7-机器学习5-非监督聚类.pdf | 27,991 |
+| 53 | [Lecture8-复习课-图集-矢量-视觉描述](Lecture8-%E5%A4%8D%E4%B9%A0%E8%AF%BE-%E5%9B%BE%E9%9B%86-%E7%9F%A2%E9%87%8F-%E8%A7%86%E8%A7%89%E6%8F%8F%E8%BF%B0.md) | Lecture8-复习课-图集-矢量-视觉描述.md | 4,413 |
+| 54 | [Lecture8-复习课-图集-矢量](Lecture8-%E5%A4%8D%E4%B9%A0%E8%AF%BE-%E5%9B%BE%E9%9B%86-%E7%9F%A2%E9%87%8F.md) | Lecture8-复习课-图集-矢量.pdf | 954 |
+| 55 | [Lecture8-复习课-图集-视觉描述](Lecture8-%E5%A4%8D%E4%B9%A0%E8%AF%BE-%E5%9B%BE%E9%9B%86-%E8%A7%86%E8%A7%89%E6%8F%8F%E8%BF%B0.md) | Lecture8-复习课-图集-视觉描述.md | 14,575 |
+| 56 | [Lecture8-复习课-图集](Lecture8-%E5%A4%8D%E4%B9%A0%E8%AF%BE-%E5%9B%BE%E9%9B%86.md) | Lecture8-复习课-图集.pdf | 4,915 |
+| 57 | [Lecture8-复习课](Lecture8-%E5%A4%8D%E4%B9%A0%E8%AF%BE.md) | Lecture8-复习课.pdf | 14,246 |
+| 58 | [Lecture9-作业讲解课-图集-视觉描述](Lecture9-%E4%BD%9C%E4%B8%9A%E8%AE%B2%E8%A7%A3%E8%AF%BE-%E5%9B%BE%E9%9B%86-%E8%A7%86%E8%A7%89%E6%8F%8F%E8%BF%B0.md) | Lecture9-作业讲解课-图集-视觉描述.md | 12,930 |
+| 59 | [Lecture9-作业讲解课-图集](Lecture9-%E4%BD%9C%E4%B8%9A%E8%AE%B2%E8%A7%A3%E8%AF%BE-%E5%9B%BE%E9%9B%86.md) | Lecture9-作业讲解课-图集.pdf | 6,384 |
+| 60 | [Lecture9-作业讲解课](Lecture9-%E4%BD%9C%E4%B8%9A%E8%AE%B2%E8%A7%A3%E8%AF%BE.md) | Lecture9-作业讲解课.pdf | 8,368 |
+| 61 | [《人工智能》课程基本知识体系整理](%E3%80%8A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E3%80%8B%E8%AF%BE%E7%A8%8B%E5%9F%BA%E6%9C%AC%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB%E6%95%B4%E7%90%86.md) | 《人工智能》课程基本知识体系整理.pdf | 431 |

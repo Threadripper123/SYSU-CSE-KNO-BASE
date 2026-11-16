@@ -1,0 +1,69 @@
+# 分布式系统
+
+分布式系统 课程资料（已按内容去重，图片/图表经视觉模型描述）
+
+共 61 篇，合计 455,427 字符。
+
+| # | 文档 | 源文件 | 字符数 |
+| --- | --- | --- | ---: |
+| 1 | [DS-CH-1-简介-图集-矢量-视觉描述](DS-CH-1-%E7%AE%80%E4%BB%8B-%E5%9B%BE%E9%9B%86-%E7%9F%A2%E9%87%8F-%E8%A7%86%E8%A7%89%E6%8F%8F%E8%BF%B0.md) | DS-CH-1-简介-图集-矢量-视觉描述.md | 6,906 |
+| 2 | [DS-CH-1-简介-图集-矢量](DS-CH-1-%E7%AE%80%E4%BB%8B-%E5%9B%BE%E9%9B%86-%E7%9F%A2%E9%87%8F.md) | DS-CH-1-简介-图集-矢量.pdf | 2,125 |
+| 3 | [DS-CH-1-简介-图集-视觉描述](DS-CH-1-%E7%AE%80%E4%BB%8B-%E5%9B%BE%E9%9B%86-%E8%A7%86%E8%A7%89%E6%8F%8F%E8%BF%B0.md) | DS-CH-1-简介-图集-视觉描述.md | 16,319 |
+| 4 | [DS-CH-1-简介-图集](DS-CH-1-%E7%AE%80%E4%BB%8B-%E5%9B%BE%E9%9B%86.md) | DS-CH-1-简介-图集.pdf | 6,073 |
+| 5 | [DS-CH-1-简介](DS-CH-1-%E7%AE%80%E4%BB%8B.md) | DS-CH-1-简介.pdf | 10,444 |
+| 6 | [DS-CH-2-架构-图集-矢量-视觉描述](DS-CH-2-%E6%9E%B6%E6%9E%84-%E5%9B%BE%E9%9B%86-%E7%9F%A2%E9%87%8F-%E8%A7%86%E8%A7%89%E6%8F%8F%E8%BF%B0.md) | DS-CH-2-架构-图集-矢量-视觉描述.md | 1,979 |
+| 7 | [DS-CH-2-架构-图集-矢量](DS-CH-2-%E6%9E%B6%E6%9E%84-%E5%9B%BE%E9%9B%86-%E7%9F%A2%E9%87%8F.md) | DS-CH-2-架构-图集-矢量.pdf | 434 |
+| 8 | [DS-CH-2-架构-图集-视觉描述](DS-CH-2-%E6%9E%B6%E6%9E%84-%E5%9B%BE%E9%9B%86-%E8%A7%86%E8%A7%89%E6%8F%8F%E8%BF%B0.md) | DS-CH-2-架构-图集-视觉描述.md | 14,149 |
+| 9 | [DS-CH-2-架构-图集](DS-CH-2-%E6%9E%B6%E6%9E%84-%E5%9B%BE%E9%9B%86.md) | DS-CH-2-架构-图集.pdf | 4,770 |
+| 10 | [DS-CH-2-架构](DS-CH-2-%E6%9E%B6%E6%9E%84.md) | DS-CH-2-架构.pdf | 5,433 |
+| 11 | [DS-CH-3-进程-图集-矢量-视觉描述](DS-CH-3-%E8%BF%9B%E7%A8%8B-%E5%9B%BE%E9%9B%86-%E7%9F%A2%E9%87%8F-%E8%A7%86%E8%A7%89%E6%8F%8F%E8%BF%B0.md) | DS-CH-3-进程-图集-矢量-视觉描述.md | 1,457 |
+| 12 | [DS-CH-3-进程-图集-矢量](DS-CH-3-%E8%BF%9B%E7%A8%8B-%E5%9B%BE%E9%9B%86-%E7%9F%A2%E9%87%8F.md) | DS-CH-3-进程-图集-矢量.pdf | 417 |
+| 13 | [DS-CH-3-进程-图集-视觉描述](DS-CH-3-%E8%BF%9B%E7%A8%8B-%E5%9B%BE%E9%9B%86-%E8%A7%86%E8%A7%89%E6%8F%8F%E8%BF%B0.md) | DS-CH-3-进程-图集-视觉描述.md | 14,577 |
+| 14 | [DS-CH-3-进程-图集](DS-CH-3-%E8%BF%9B%E7%A8%8B-%E5%9B%BE%E9%9B%86.md) | DS-CH-3-进程-图集.pdf | 9,481 |
+| 15 | [DS-CH-3-进程](DS-CH-3-%E8%BF%9B%E7%A8%8B.md) | DS-CH-3-进程.pdf | 8,702 |
+| 16 | [DS-CH-4-通信-图集-矢量-视觉描述](DS-CH-4-%E9%80%9A%E4%BF%A1-%E5%9B%BE%E9%9B%86-%E7%9F%A2%E9%87%8F-%E8%A7%86%E8%A7%89%E6%8F%8F%E8%BF%B0.md) | DS-CH-4-通信-图集-矢量-视觉描述.md | 1,822 |
+| 17 | [DS-CH-4-通信-图集-矢量](DS-CH-4-%E9%80%9A%E4%BF%A1-%E5%9B%BE%E9%9B%86-%E7%9F%A2%E9%87%8F.md) | DS-CH-4-通信-图集-矢量.pdf | 626 |
+| 18 | [DS-CH-4-通信-图集-视觉描述](DS-CH-4-%E9%80%9A%E4%BF%A1-%E5%9B%BE%E9%9B%86-%E8%A7%86%E8%A7%89%E6%8F%8F%E8%BF%B0.md) | DS-CH-4-通信-图集-视觉描述.md | 20,792 |
+| 19 | [DS-CH-4-通信-图集](DS-CH-4-%E9%80%9A%E4%BF%A1-%E5%9B%BE%E9%9B%86.md) | DS-CH-4-通信-图集.pdf | 11,758 |
+| 20 | [DS-CH-4-通信](DS-CH-4-%E9%80%9A%E4%BF%A1.md) | DS-CH-4-通信.pdf | 5,624 |
+| 21 | [DS-CH-5-命名-图集-矢量-视觉描述](DS-CH-5-%E5%91%BD%E5%90%8D-%E5%9B%BE%E9%9B%86-%E7%9F%A2%E9%87%8F-%E8%A7%86%E8%A7%89%E6%8F%8F%E8%BF%B0.md) | DS-CH-5-命名-图集-矢量-视觉描述.md | 2,036 |
+| 22 | [DS-CH-5-命名-图集-矢量](DS-CH-5-%E5%91%BD%E5%90%8D-%E5%9B%BE%E9%9B%86-%E7%9F%A2%E9%87%8F.md) | DS-CH-5-命名-图集-矢量.pdf | 535 |
+| 23 | [DS-CH-5-命名-图集-视觉描述](DS-CH-5-%E5%91%BD%E5%90%8D-%E5%9B%BE%E9%9B%86-%E8%A7%86%E8%A7%89%E6%8F%8F%E8%BF%B0.md) | DS-CH-5-命名-图集-视觉描述.md | 12,408 |
+| 24 | [DS-CH-5-命名-图集](DS-CH-5-%E5%91%BD%E5%90%8D-%E5%9B%BE%E9%9B%86.md) | DS-CH-5-命名-图集.pdf | 6,467 |
+| 25 | [DS-CH-5-命名](DS-CH-5-%E5%91%BD%E5%90%8D.md) | DS-CH-5-命名.pdf | 4,910 |
+| 26 | [DS-CH-6-协同-图集-视觉描述](DS-CH-6-%E5%8D%8F%E5%90%8C-%E5%9B%BE%E9%9B%86-%E8%A7%86%E8%A7%89%E6%8F%8F%E8%BF%B0.md) | DS-CH-6-协同-图集-视觉描述.md | 11,515 |
+| 27 | [DS-CH-6-协同-图集](DS-CH-6-%E5%8D%8F%E5%90%8C-%E5%9B%BE%E9%9B%86.md) | DS-CH-6-协同-图集.pdf | 6,728 |
+| 28 | [DS-CH-6-协同](DS-CH-6-%E5%8D%8F%E5%90%8C.md) | DS-CH-6-协同.pdf | 5,548 |
+| 29 | [DS-CH-7-一致性和复制-图集-视觉描述](DS-CH-7-%E4%B8%80%E8%87%B4%E6%80%A7%E5%92%8C%E5%A4%8D%E5%88%B6-%E5%9B%BE%E9%9B%86-%E8%A7%86%E8%A7%89%E6%8F%8F%E8%BF%B0.md) | DS-CH-7-一致性和复制-图集-视觉描述.md | 8,381 |
+| 30 | [DS-CH-7-一致性和复制-图集](DS-CH-7-%E4%B8%80%E8%87%B4%E6%80%A7%E5%92%8C%E5%A4%8D%E5%88%B6-%E5%9B%BE%E9%9B%86.md) | DS-CH-7-一致性和复制-图集.pdf | 3,605 |
+| 31 | [DS-CH-7-一致性和复制](DS-CH-7-%E4%B8%80%E8%87%B4%E6%80%A7%E5%92%8C%E5%A4%8D%E5%88%B6.md) | DS-CH-7-一致性和复制.pdf | 5,114 |
+| 32 | [DS-CH-8-容错-图集-矢量-视觉描述](DS-CH-8-%E5%AE%B9%E9%94%99-%E5%9B%BE%E9%9B%86-%E7%9F%A2%E9%87%8F-%E8%A7%86%E8%A7%89%E6%8F%8F%E8%BF%B0.md) | DS-CH-8-容错-图集-矢量-视觉描述.md | 3,442 |
+| 33 | [DS-CH-8-容错-图集-矢量](DS-CH-8-%E5%AE%B9%E9%94%99-%E5%9B%BE%E9%9B%86-%E7%9F%A2%E9%87%8F.md) | DS-CH-8-容错-图集-矢量.pdf | 1,061 |
+| 34 | [DS-CH-8-容错-图集-视觉描述](DS-CH-8-%E5%AE%B9%E9%94%99-%E5%9B%BE%E9%9B%86-%E8%A7%86%E8%A7%89%E6%8F%8F%E8%BF%B0.md) | DS-CH-8-容错-图集-视觉描述.md | 17,893 |
+| 35 | [DS-CH-8-容错-图集](DS-CH-8-%E5%AE%B9%E9%94%99-%E5%9B%BE%E9%9B%86.md) | DS-CH-8-容错-图集.pdf | 12,046 |
+| 36 | [DS-CH-8-容错](DS-CH-8-%E5%AE%B9%E9%94%99.md) | DS-CH-8-容错.pdf | 5,626 |
+| 37 | [DS-CH-9-paxos-图集-视觉描述](DS-CH-9-paxos-%E5%9B%BE%E9%9B%86-%E8%A7%86%E8%A7%89%E6%8F%8F%E8%BF%B0.md) | DS-CH-9-paxos-图集-视觉描述.md | 17,528 |
+| 38 | [DS-CH-9-paxos-图集](DS-CH-9-paxos-%E5%9B%BE%E9%9B%86.md) | DS-CH-9-paxos-图集.pdf | 9,273 |
+| 39 | [DS-CH-9-paxos](DS-CH-9-paxos.md) | DS-CH-9-paxos.pdf | 1,220 |
+| 40 | [DS-CH-10-文件系统-图集-视觉描述](DS-CH-10-%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F-%E5%9B%BE%E9%9B%86-%E8%A7%86%E8%A7%89%E6%8F%8F%E8%BF%B0.md) | DS-CH-10-文件系统-图集-视觉描述.md | 7,031 |
+| 41 | [DS-CH-10-文件系统-图集](DS-CH-10-%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F-%E5%9B%BE%E9%9B%86.md) | DS-CH-10-文件系统-图集.pdf | 2,637 |
+| 42 | [DS-CH-10-文件系统](DS-CH-10-%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F.md) | DS-CH-10-文件系统.pdf | 3,707 |
+| 43 | [DS-CH-11-大数据分布式学习-图集-视觉描述](DS-CH-11-%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%88%86%E5%B8%83%E5%BC%8F%E5%AD%A6%E4%B9%A0-%E5%9B%BE%E9%9B%86-%E8%A7%86%E8%A7%89%E6%8F%8F%E8%BF%B0.md) | DS-CH-11-大数据分布式学习-图集-视觉描述.md | 21,386 |
+| 44 | [DS-CH-11-大数据分布式学习-图集](DS-CH-11-%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%88%86%E5%B8%83%E5%BC%8F%E5%AD%A6%E4%B9%A0-%E5%9B%BE%E9%9B%86.md) | DS-CH-11-大数据分布式学习-图集.pdf | 16,109 |
+| 45 | [DS-CH-11-大数据分布式学习](DS-CH-11-%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%88%86%E5%B8%83%E5%BC%8F%E5%AD%A6%E4%B9%A0.md) | DS-CH-11-大数据分布式学习.pdf | 1,586 |
+| 46 | [DS-CH-12-分布式Web-图集-视觉描述](DS-CH-12-%E5%88%86%E5%B8%83%E5%BC%8FWeb-%E5%9B%BE%E9%9B%86-%E8%A7%86%E8%A7%89%E6%8F%8F%E8%BF%B0.md) | DS-CH-12-分布式Web-图集-视觉描述.md | 9,652 |
+| 47 | [DS-CH-12-分布式Web-图集](DS-CH-12-%E5%88%86%E5%B8%83%E5%BC%8FWeb-%E5%9B%BE%E9%9B%86.md) | DS-CH-12-分布式Web-图集.pdf | 4,574 |
+| 48 | [DS-CH-12-分布式Web](DS-CH-12-%E5%88%86%E5%B8%83%E5%BC%8FWeb.md) | DS-CH-12-分布式Web.pdf | 3,660 |
+| 49 | [DS-CH-13-K8S-mew-图集-矢量-视觉描述](DS-CH-13-K8S-mew-%E5%9B%BE%E9%9B%86-%E7%9F%A2%E9%87%8F-%E8%A7%86%E8%A7%89%E6%8F%8F%E8%BF%B0.md) | DS-CH-13-K8S-mew-图集-矢量-视觉描述.md | 21,765 |
+| 50 | [DS-CH-13-K8S-mew-图集-矢量](DS-CH-13-K8S-mew-%E5%9B%BE%E9%9B%86-%E7%9F%A2%E9%87%8F.md) | DS-CH-13-K8S-mew-图集-矢量.pdf | 4,628 |
+| 51 | [DS-CH-13-K8S-mew-图集-视觉描述](DS-CH-13-K8S-mew-%E5%9B%BE%E9%9B%86-%E8%A7%86%E8%A7%89%E6%8F%8F%E8%BF%B0.md) | DS-CH-13-K8S-mew-图集-视觉描述.md | 7,588 |
+| 52 | [DS-CH-13-K8S-mew-图集](DS-CH-13-K8S-mew-%E5%9B%BE%E9%9B%86.md) | DS-CH-13-K8S-mew-图集.pdf | 1,135 |
+| 53 | [DS-CH-13-K8S-mew](DS-CH-13-K8S-mew.md) | DS-CH-13-K8S-mew.pdf | 25,776 |
+| 54 | [DS-云原生环境中的DevOps-图集-视觉描述](DS-%E4%BA%91%E5%8E%9F%E7%94%9F%E7%8E%AF%E5%A2%83%E4%B8%AD%E7%9A%84DevOps-%E5%9B%BE%E9%9B%86-%E8%A7%86%E8%A7%89%E6%8F%8F%E8%BF%B0.md) | DS-云原生环境中的DevOps-图集-视觉描述.md | 10,919 |
+| 55 | [DS-云原生环境中的DevOps-图集](DS-%E4%BA%91%E5%8E%9F%E7%94%9F%E7%8E%AF%E5%A2%83%E4%B8%AD%E7%9A%84DevOps-%E5%9B%BE%E9%9B%86.md) | DS-云原生环境中的DevOps-图集.pdf | 5,109 |
+| 56 | [DS-云原生环境中的DevOps](DS-%E4%BA%91%E5%8E%9F%E7%94%9F%E7%8E%AF%E5%A2%83%E4%B8%AD%E7%9A%84DevOps.md) | DS-云原生环境中的DevOps.pdf | 1,903 |
+| 57 | [Zookeeper-补充-图集-矢量-视觉描述](Zookeeper-%E8%A1%A5%E5%85%85-%E5%9B%BE%E9%9B%86-%E7%9F%A2%E9%87%8F-%E8%A7%86%E8%A7%89%E6%8F%8F%E8%BF%B0.md) | Zookeeper-补充-图集-矢量-视觉描述.md | 5,401 |
+| 58 | [Zookeeper-补充-图集-矢量](Zookeeper-%E8%A1%A5%E5%85%85-%E5%9B%BE%E9%9B%86-%E7%9F%A2%E9%87%8F.md) | Zookeeper-补充-图集-矢量.pdf | 1,256 |
+| 59 | [Zookeeper-补充-图集-视觉描述](Zookeeper-%E8%A1%A5%E5%85%85-%E5%9B%BE%E9%9B%86-%E8%A7%86%E8%A7%89%E6%8F%8F%E8%BF%B0.md) | Zookeeper-补充-图集-视觉描述.md | 7,324 |
+| 60 | [Zookeeper-补充-图集](Zookeeper-%E8%A1%A5%E5%85%85-%E5%9B%BE%E9%9B%86.md) | Zookeeper-补充-图集.pdf | 1,096 |
+| 61 | [Zookeeper-补充](Zookeeper-%E8%A1%A5%E5%85%85.md) | Zookeeper-补充.pdf | 11,961 |
